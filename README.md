@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Osinedges
+- 👀 I’m interested in Java,JavaScript,HTML,CSS and SQL
+- 🌱 I’m currently learning Lua & JavaScript
+- 💞️ I’m looking to collaborate on Game Development, Server Development.
+- 📫 How to reach me: ciaran_reilly@hotmail.com
