@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Osinedges
 - 👀 I’m interested in Java,TypeScript,JavaScript,HTML,CSS and MySQL
-- 🌱 I’m currently learning ReactJS & Rust
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Game Development & Server Development.
 - 📫 How to reach me: osinedges@gmail.com
